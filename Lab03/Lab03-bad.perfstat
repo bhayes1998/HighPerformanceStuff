@@ -1,0 +1,32 @@
+# started on Wed Sep  9 11:30:11 2020
+
+
+ Performance counter stats for './Lab03-bad':
+
+        493,095.39 msec task-clock                #    1.000 CPUs utilized          
+             1,050      context-switches          #    0.002 K/sec                  
+                 6      cpu-migrations            #    0.000 K/sec                  
+             4,030      page-faults               #    0.008 K/sec                  
+ 1,945,352,838,936      cycles                    #    3.945 GHz                      (30.77%)
+   280,912,455,135      instructions              #    0.14  insn per cycle           (38.46%)
+    35,159,347,953      branches                  #   71.303 M/sec                    (46.15%)
+        38,730,592      branch-misses             #    0.11% of all branches          (46.15%)
+    70,232,264,388      L1-dcache-loads           #  142.431 M/sec                    (46.15%)
+    87,184,173,202      L1-dcache-load-misses     #  124.14% of all L1-dcache hits    (15.38%)
+    12,938,851,795      LLC-loads                 #   26.240 M/sec                    (15.38%)
+     8,724,967,496      LLC-load-misses           #   67.43% of all LL-cache hits     (23.08%)
+   <not supported>      L1-icache-loads                                             
+        25,455,097      L1-icache-load-misses                                         (30.77%)
+    70,234,282,150      dTLB-loads                #  142.435 M/sec                    (30.77%)
+    66,428,101,751      dTLB-load-misses          #   94.58% of all dTLB cache hits   (15.38%)
+            29,263      iTLB-loads                #    0.059 K/sec                    (15.38%)
+           539,451      iTLB-load-misses          # 1843.46% of all iTLB cache hits   (23.08%)
+   <not supported>      L1-dcache-prefetches                                        
+   <not supported>      L1-dcache-prefetch-misses                                   
+
+     493.117723691 seconds time elapsed
+
+     493.088465000 seconds user
+       0.007999000 seconds sys
+
+

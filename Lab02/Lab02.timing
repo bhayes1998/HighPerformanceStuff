@@ -1,0 +1,38 @@
+model name	: Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz
+MemTotal:        8056076 kB
+Done processing Lab02.cpp
+Total errors found: 0
+Switch runs
+Sum = 1073741832
+Elapsed 0:13.06 System 0.00 User 13.06
+Sum = 1073741832
+Elapsed 0:13.06 System 0.00 User 13.06
+Sum = 1073741832
+Elapsed 0:13.06 System 0.00 User 13.06
+Sum = 1073741832
+Elapsed 0:13.06 System 0.00 User 13.06
+Sum = 1073741832
+Elapsed 0:13.06 System 0.00 User 13.06
+Sum = 1073741832
+Elapsed 0:13.06 System 0.00 User 13.06
+Sum = 1073741832
+Elapsed 0:13.06 System 0.00 User 13.06
+Sum = 1073741832
+Elapsed 0:13.06 System 0.00 User 13.06
+If runs
+Sum = 1073741832
+Elapsed 0:12.78 System 0.00 User 12.77
+Sum = 1073741832
+Elapsed 0:12.77 System 0.00 User 12.77
+Sum = 1073741832
+Elapsed 0:12.78 System 0.00 User 12.77
+Sum = 1073741832
+Elapsed 0:12.78 System 0.00 User 12.78
+Sum = 1073741832
+Elapsed 0:12.78 System 0.00 User 12.77
+Sum = 1073741832
+Elapsed 0:12.77 System 0.00 User 12.77
+Sum = 1073741832
+Elapsed 0:12.77 System 0.00 User 12.77
+Sum = 1073741832
+Elapsed 0:12.78 System 0.00 User 12.77
